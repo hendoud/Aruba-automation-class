@@ -1,3 +1,5 @@
 welcome
 “to arubatraining”
 “to arubatraining”
+“new feature”
+“new feature”
